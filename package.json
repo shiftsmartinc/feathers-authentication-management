@@ -1,7 +1,7 @@
 {
   "name": "@shiftsmartinc/feathers-authentication-management",
   "description": "Adds sign up verification, forgotten password reset, and other capabilities to local feathers-authentication",
-  "version": "5.0.0-pre.0",
+  "version": "5.0.0-pre.1",
   "repository": {
     "type": "git",
     "url": "git@github.com:shiftsmartinc/feathers-authentication-management.git"
