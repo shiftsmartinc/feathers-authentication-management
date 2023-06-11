@@ -33,6 +33,10 @@
   "directories": {
     "src": "src"
   },
+  "publishConfig": {
+    "access": "restricted",
+    "registry": "https://npm.pkg.github.com"
+  },
   "files": [
     "CHANGELOG.md",
     "LICENSE",
