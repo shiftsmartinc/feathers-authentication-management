@@ -49,7 +49,7 @@
     "release:patch": "npm version patch && npm publish",
     "release:minor": "npm version minor && npm publish",
     "release:major": "npm version major && npm publish",
-    "changelog": "github_changelog_generator -u feathersjs-ecosystem -p feathers-authentication-management && git add CHANGELOG.md && git commit -am \"Updating changelog\"",
+    "changelog": "exit 0; github_changelog_generator -u feathersjs-ecosystem -p feathers-authentication-management && git add CHANGELOG.md && git commit -am \"Updating changelog\"",
     "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
     "mocha": "cross-env TS_NODE_PROJECT='tsconfig.test.json' mocha --require ts-node/register --timeout 40000",
     "coverage": "nyc npm run mocha",
