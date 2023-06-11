@@ -1,10 +1,10 @@
 {
-  "name": "feathers-authentication-management",
+  "name": "@shiftsmartinc/feathers-authentication-management",
   "description": "Adds sign up verification, forgotten password reset, and other capabilities to local feathers-authentication",
   "version": "4.0.2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/shiftsmartinc/feathers-authentication-management"
+    "url": "git@github.com:shiftsmartinc/feathers-authentication-management.git"
   },
   "license": "MIT",
   "homepage": "https://feathers-a-m.netlify.app/",
