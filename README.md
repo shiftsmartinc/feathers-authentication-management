@@ -1,5 +1,8 @@
-# feathers-authentication-management
+# @shiftsmartinc/feathers-authentication-management
 **Sign up verification, forgotten password reset, and other capabilities for local authentication.**
+
+### A note on Internal Development
+This repo is attempting to maintain both an "internal" fork and a "friendly" fork. The `internal` branch has changes specific to Shiftsmart and should not be published, while the "friendly" `main` branch tracks to upstream. When comitting code against this repo, consider first whether this is something that will benefit the wider feathers ecosystem, and if so, please be sure to branch off of `main`. For work and changes that should not be used outside of our ecosystem, please branch off of the `internal` branch.
 
 <p align="center">
   <a href="https://feathers-a-m.netlify.app/"><img src="https://feathers-a-m.netlify.app/logo.svg" width="200"></a>
