@@ -73,7 +73,7 @@
   "devDependencies": {
     "@feathersjs/feathers": "^5.0.0",
     "@feathersjs/socketio": "^5.0.0",
-    "@feathersjs/transport-commons": "^5.0.0",
+    "@feathersjs/transport-commons": "^5.0.8",
     "@types/bcryptjs": "^2.4.2",
     "@types/debug": "^4.1.7",
     "@types/lodash": "^4.14.185",
